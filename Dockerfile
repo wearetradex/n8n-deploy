@@ -1,3 +1,0 @@
-FROM n8nio/n8n:latest
-ENV N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS=true
-CMD ["n8n", "start"]
